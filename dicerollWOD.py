@@ -1,3 +1,5 @@
+#CREDIT GOES TO JACOB CONNOR AND CAIT MACLEON
+
 import random
 
 def rollsDisplay(rolls,successes,explodedRolls,explodeCount): 
